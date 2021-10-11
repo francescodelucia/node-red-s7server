@@ -1,0 +1,20 @@
+{
+  "name": "snap7-server",
+  "version": "0.1.0",
+  "description": "profinet tool to emulate device",
+  "dependencies": {},
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "snap7-server": "snap7-server.js"
+    }
+  },
+  "main": "snap7-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
