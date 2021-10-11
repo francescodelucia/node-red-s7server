@@ -1,6 +1,6 @@
 # node-red-s7server
 Node-Red plugin with implementation of S7 Server (virtual device) for ICS test
-This is a little POC hot to is possible implement S7-server device on Node-Red
+This is a little POC howto is possible implement S7-server device on Node-Red
 
 Hot to use.
 
